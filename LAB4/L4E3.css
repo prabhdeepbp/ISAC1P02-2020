@@ -1,0 +1,19 @@
+body{
+  background-color: green;
+}
+
+#Yes{
+  border: black 3px dashed;
+}
+
+.color1{
+  color: red;
+}
+
+.color2{
+  color: rgb(34, 12, 64, 0.6)
+}
+
+.color3{
+  color: purple
+}

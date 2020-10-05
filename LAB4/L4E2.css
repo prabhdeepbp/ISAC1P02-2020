@@ -1,0 +1,19 @@
+.text{
+  border-top: blue 3px dashed;
+  border-bottom: blue 3px dashed;
+  border-left: blue 3px dashed;
+  border-right: blue 3px dashed;
+
+padding: 250px 200px 20px 200px
+}
+
+.redText{
+  color: red;
+  text-align: center;
+  font-size: 10px
+}
+
+.rainbow{
+  color: orange;
+  font-size: 30px
+}
