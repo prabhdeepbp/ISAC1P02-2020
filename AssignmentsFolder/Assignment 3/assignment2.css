@@ -1,0 +1,42 @@
+.paragraph1, .paragraph2{
+  color: red;
+  font-size: 100px;
+  font-family: cursive;
+}
+
+.div1 p{
+  text-transform: uppercase;
+}
+
+#wrapper{
+  width: 750px;
+  margin:0 auto;
+  background-color: orange;
+}
+
+#header{
+  height: 80px;
+  text-align: center;
+  background-color: yellow;
+  padding-top: 10px;
+}
+
+#leftbody{
+  height: 95px;
+  width: 325px;
+  background-color: green;
+float: left;
+}
+
+#rightbody{
+  height: 100px;
+  width: 425px;
+  background-color: blue;
+  float: left;
+}
+
+#content{
+  height: 400px;
+  width: 750px;
+  background-color: red;
+}
