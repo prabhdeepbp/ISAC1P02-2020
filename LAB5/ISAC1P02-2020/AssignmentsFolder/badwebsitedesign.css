@@ -1,0 +1,51 @@
+body{
+  background-color: white;
+
+}
+
+#wrapper{
+  width: 500px;
+  margin: auto;
+  background-color: white
+}
+
+#header{
+  text-align: center;
+  height: 80px;
+  width: 500px;
+  background-color: red;
+
+}
+
+#leftbody{
+  text-align: left;
+  height: 300px;
+  width: 140px;
+  background-color: pink;
+  float: left;
+}
+
+#rightbody{
+  text-align: center;
+  height: 100px;
+  width: 360px;
+  float: left;
+  background-color: purple;
+
+}
+
+#content{
+  text-align: center;
+  width: 360px;
+  height: 200px;
+  background-color: yellow;
+float: right;
+}
+
+#bottom{
+  text-align: center;
+  width: 500px;
+  height: 40px;
+  clear: both;
+  background-color: green;
+}
